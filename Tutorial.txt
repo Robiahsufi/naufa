@@ -1,0 +1,2 @@
+link tutorial crud yang digunakan:
+https://qadrlabs.com/post/crud-sederhana-codeigniter
